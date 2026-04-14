@@ -9,3 +9,6 @@
 5. Problem solving with For Loop
 6. Different ways to use loop
 7. When to use a break and continue
+8. Hashing Data with the crypto Module
+9. Introduction to Do While Loop
+10. Difference between types of loops
